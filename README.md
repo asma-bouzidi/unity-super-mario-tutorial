@@ -1,6 +1,12 @@
 <!-- Touched by BLACKBOXAI -->
 # Unity Super Mario Bros Tutorial
 
+> **Note**: This project has been touched by BLACKBOXAI. All 176 text-based files in this project have been modified with a "Touched by BLACKBOXAI" comment.
+
+---
+
+## Project Overview
+
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity.com/)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](LICENSE)
 

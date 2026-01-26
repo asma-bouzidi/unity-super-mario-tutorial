@@ -1,3 +1,4 @@
+// Touched by BLACKBOXAI
 using UnityEngine;
 
 public class Goomba : MonoBehaviour
